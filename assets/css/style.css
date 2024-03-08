@@ -881,7 +881,7 @@ element.style {
     position: relative;
 }
 .home{
-    background: url(../images/background/4U_wall.jpg) no-repeat top center;
+    background: url(../images/background/4U_wall.webp) no-repeat top center;
     background-size: cover;
     max-height: 100vh;
 }
